@@ -6,18 +6,19 @@ This project uses the Create React App to build a React project hosting a portfo
 
 ## Built with
 
-* Create React App
-* React
-* Node.js
-* Javascript ES5 and ES6
-* HTML and CSS
-* Jest (testing suite)
+- Create React App
+- React
+- Node.js
+- Javascript ES5 and ES6
+- HTML and CSS
+- Jest (testing suite)
 
 ## Usage
 
-The page is hosted on GitHub pages at 
+The page is hosted on GitHub pages at
 
 ## Screenshot
+
 <!-- ![](./public/shot.jpg) -->
 <img src="./public/shot.jpg" alt="shot" width="650"/>
 
@@ -25,3 +26,11 @@ The page is hosted on GitHub pages at
 
 <!-- ![](./public/demo.gif) -->
 <img src="./public/demo.gif" alt="shot" width="650"/>
+
+## Deployment
+
+[GitHub pages](https://epw80.github.io/photo-port/)
+
+## Contributor
+
+Erik Williams
