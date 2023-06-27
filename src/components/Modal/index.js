@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Modal = ({ onClose, currentPhoto }) => {
   const { name, description, category, index } = currentPhoto;
