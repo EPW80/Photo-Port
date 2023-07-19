@@ -5,8 +5,14 @@ Welcome to Photo Port – a dynamic portfolio platform designed for a fictitious
 ## 🛠️ Technologies Used
 
 - React: For building the user interface and driving the single-page application experience.
+
 - Node.js: Powers the backend, ensuring smooth performance.
+
 - Jest: Our choice for a testing suite, ensuring the application runs flawlessly.
+
+## Deployment
+
+[gh-pages](https://epw80.github.io/photo-port-static/)
 
 ## Demo
 
