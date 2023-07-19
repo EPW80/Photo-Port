@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/EPW80/photo-port",
+  "homepage": "https://EPW80.github.io/photo-port",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -46,5 +46,12 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Welcome to Photo Port – a dynamic portfolio platform designed for a fictitious photographer. Leveraging the capabilities of the Create React App, this project offers a seamless single-page application experience. It utilizes conditional rendering, sophisticated component structures, and hooks to effortlessly switch between content displays.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPW80/photo-port.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EPW80/photo-port/issues"
+  }
 }
