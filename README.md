@@ -11,11 +11,6 @@ This project uses the Create React App to build a React project hosting a portfo
 ## Demo
 
 ![](./public/demo.gif)
-
-## Deployment
-
-[GitHub pages](https://epw80.github.io/photo-port/)
-
 ## Contributor
 
 Erik Williams
